@@ -62,7 +62,7 @@ The analysis results include:
 
 ## Credits
 
-- This code was created by Nada Osama
+- This code was created by [Nada Osama](https://github.com/NadaOsamaa)
 - The data was obtained from Kaggle:
   - ["How I Met Your Mother" Dataset ↗](https://www.kaggle.com/datasets/vidheeshnacode/how-i-met-your-mother-himym-dataset)
   - ["How I Met Your Mother" Transcript ↗](https://www.kaggle.com/datasets/gibsonhu85/howimetyourmotherscript)
